@@ -44,8 +44,12 @@ body {
 }
 .msg-link {
     text-decoration: none;
-    color: #4f96c0;
+    color: #972c9b;
 }
 .msg-link:hover {
-    color: #e4218ce0;
+    color: #e07ab2e0;
 }   
+.msg-img {
+width: 60px;
+height: 60px;
+}
